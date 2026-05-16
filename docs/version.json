@@ -1,7 +1,7 @@
 {
-  "minimumSupportedVersion": "9.9.9",
-  "latestVersion": "9.9.9",
-  "isUpdateRequired": true,
+  "minimumSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "isUpdateRequired": false,
   "appStoreURL": "itms-apps://apps.apple.com/app/idYOUR_APPLE_APP_ID",
   "title": "Update Required",
   "message": "A newer version of Liar Logic is required to continue. Please update the app to keep playing."
